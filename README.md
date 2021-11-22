@@ -7,15 +7,13 @@ The 2 scripts require you run them from the directory your GIFs (and therefore s
 - spritesheets_into_tscn.sh: Converts the Spritesheets into Scenes (GIFs still required for now)
 
 The following files are made (and can be deleted after running):
-- `../Grite.exe`
 - `../listpngs`
 - `../listgifs`
 
 ## Requirements:
-- Wine (to run [Grite](https://github.com/niallVR/Grite))
+- ImageMagick (conversions/processing)
 - Gifsicle (gif information)
-- Wget
-- File
+- File (resolution information)
 - Bash (wc, rev, cut, cat, echo, head, tail, expr, bc, seq)
 
 ## Limitations:
@@ -25,4 +23,6 @@ The following files are made (and can be deleted after running):
 
 ## Credits:
 - [Godot](https://godotengine.org) for making such an amazing game engine
-- [Grite](https://github.com/niallVR/Grite) for the GIF to spritesheet conversion
+- lertsenem		}
+- Shineru		}- For helping me implement ImageMagick to reduce dependencies
+- bengtsts		}
