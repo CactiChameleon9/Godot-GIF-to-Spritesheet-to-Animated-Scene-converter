@@ -1,9 +1,10 @@
 # Godot-GIF-to-Spritesheet-to-Animated-Scene-converter
 Have you ever needed to convert a lot of GIFs (100+) into Pre-Animated Godot Scenes?? These scripts can do that for you!!
 
-The 2 scripts require you run them from the directory your GIFs (and therefore spritesheets) are in
-gif_to_spritesheet.sh Converts the GIFs into Spritesheets
-spritesheets_into_tscn.sh Converts the Spritesheets into Scenes (GIFs still required for now)
+## Info:
+The 2 scripts require you run them from the directory your GIFs (and therefore spritesheets) are in.
+- gif_to_spritesheet.sh: Converts the GIFs into Spritesheets
+- spritesheets_into_tscn.sh: Converts the Spritesheets into Scenes (GIFs still required for now)
 
 The following files are made (and can be deleted after running):
 - `../Grite.exe`
