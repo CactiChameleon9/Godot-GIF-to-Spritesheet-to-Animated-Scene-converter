@@ -15,6 +15,7 @@ The following files are made (and can be deleted after running):
 - Wine (to run [Grite](https://github.com/niallVR/Grite))
 - Gifsicle (gif information)
 - Wget
+- File
 - Bash (wc, rev, cut, cat, echo, head, tail, expr, bc, seq)
 
 ## Limitations:
