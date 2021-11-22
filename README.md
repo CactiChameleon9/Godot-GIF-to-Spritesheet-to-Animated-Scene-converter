@@ -22,5 +22,5 @@ The following files are made (and can be deleted after running):
 - TSCN (Godot Scene) format may change in the future, requiring edits (Tested with Godot 3.4)
 
 ## Credits:
-- Godot for making such an amazing game engine
+- [Godot](https://godotengine.org) for making such an amazing game engine
 - [Grite](https://github.com/niallVR/Grite) for the GIF to spritesheet conversion
